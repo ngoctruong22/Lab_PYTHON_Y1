@@ -23,5 +23,5 @@ def gen_bin_tree(height: int = 5,
 
 
 # print tree по варианту
-tree = gen_bin_tree(5, 1, left_branch=lambda x: x + 1, right_branch=lambda y: y + 1)
+tree = gen_bin_tree()
 print(tree)
