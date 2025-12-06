@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head><meta charset="utf-8"><title>Пользователи</title></head>
+<body>
+  {% if users %}
+    <h1>Список пользователей</h1>
+    <ul>
+      {% for u in users %}
+        <li><a href="/user?id={{ u.id }}">{{ u.name }} (id={{ u.id }})</a></li>
+      {% endfor %}
+    </ul>
+  <ul>
+     {% for item in navigation %}
+        <li><a href="{{ item.href }}">{{ item.caption }}</a></li>
+     {% endfor %}
+    </ul>
+  {% elif user %}
+    <h1>Пользователь: {{ user.name }}</h1>
+    <h2>Подписки:</h2>
+    <ul>
+      {% for c in subscriptions %}
+        <li>{{ c.char_code }} — {{ c.name }}: цена {{ c.value }} (номинал {{ c.nominal }})</li>
+      {% endfor %}
+    </ul>
+  <ul>
+     {% for item in navigation %}
+        <li><a href="{{ item.href }}">{{ item.caption }}</a></li>
+     {% endfor %}
+    </ul>
+  {% endif %}
+</body>
+</html>

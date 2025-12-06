@@ -1,0 +1,21 @@
+INFO: Solving equation: 1x^2 + 1x + 0 = 0
+DEBUG: Discriminant: 1
+INFO: Two real roots computed
+INFO: Solving equation: 1x^2 + 1x + 0 = 0
+DEBUG: Discriminant: 1
+INFO: Two real roots computed
+INFO: Solving equation: 1x^2 + 1x + 0 = 0
+DEBUG: Discriminant: 1
+INFO: Two real roots computed
+INFO: bat dau solve_quadratic voi args=(1, 1, 0), kwargs={}
+INFO: Solving equation: 1x^2 + 1x + 0 = 0
+DEBUG: Discriminant: 1
+INFO: Two real roots computed
+INFO:  hoan thanh solve_quadratic voi ket qua (0.0, -1.0) 
+
+INFO: start solve_quadratic with args=(1, 1, 0), kwargs={}
+INFO: Solving equation: 1x^2 + 1x + 0 = 0
+DEBUG: Discriminant: 1
+INFO: Two real roots computed
+INFO: success solve_quadratic with result: (0.0, -1.0) 
+

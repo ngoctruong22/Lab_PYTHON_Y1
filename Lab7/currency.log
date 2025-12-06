@@ -1,0 +1,55 @@
+
+[2025-11-24 01:33:37] [INFO] bat dau wrapped_get_currencies voi args=(['USD', 'EUR', 'GBP', 'NNZ'],), kwargs={'url': 'https://www.cbr-xml-daily.ru1/daily_json.js'}
+[2025-11-24 01:33:39] [ERROR] loi trong wrapped_get_currencies voi args=(['USD', 'EUR', 'GBP', 'NNZ'],): RequestException: Упали с исключением
+[2025-11-24 02:16:31] [INFO] bat dau get_currencies voi args=(['USD', 'EUR', 'GBP', 'NNZ'],), kwargs={}
+[2025-11-24 02:16:32] [INFO]  hoan thanh get_currencies voi ket qua {'USD': 79.0246, 'EUR': 90.5625, 'GBP': 103.4906, 'NNZ': "Код валюты 'NNZ' не найден."} 
+
+[2025-11-24 02:21:43] [INFO] bat dau get_currencies voi args=(['USD', 'EUR', 'GBP', 'NNZ'], 'https://www.cbr-xml-daily.ru/daily_json.js'), kwargs={}
+[2025-11-24 02:21:43] [INFO]  hoan thanh get_currencies voi ket qua {'USD': 79.0246, 'EUR': 90.5625, 'GBP': 103.4906, 'NNZ': "Код валюты 'NNZ' не найден."} 
+
+[2025-11-24 02:23:02] [INFO] bat dau get_currencies voi args=(['USD', 'EUR', 'GBP', 'NNZ'], 'https://www.cbr-xml-daily.ru1/daily_json.js'), kwargs={}
+[2025-11-24 02:23:03] [ERROR] loi trong get_currencies voi args=(['USD', 'EUR', 'GBP', 'NNZ'], 'https://www.cbr-xml-daily.ru1/daily_json.js'): AttributeError: 'Logger' object has no attribute 'write'
+[2025-11-24 02:24:41] [INFO] bat dau get_currencies voi args=(['USD', 'EUR', 'GBP', 'NNZ'], 'https://www.cbr-xml-daily.ru1/daily_json.js'), kwargs={}
+[2025-11-24 02:24:42] [ERROR] loi trong get_currencies voi args=(['USD', 'EUR', 'GBP', 'NNZ'], 'https://www.cbr-xml-daily.ru1/daily_json.js'): RequestException: Упали с исключением
+[2025-11-24 02:36:18] [INFO] bat dau get_currencies voi args=(['USD', 'EUR', 'GBP', 'NNZ'], 'https://www.cbr-xml-daily.ru1/daily_json.js'), kwargs={}
+[2025-11-24 02:36:19] [ERROR] loi trong get_currencies voi args=(['USD', 'EUR', 'GBP', 'NNZ'], 'https://www.cbr-xml-daily.ru1/daily_json.js'): ConnectionError: API unavailable
+[2025-11-24 02:39:23] [INFO] bat dau get_currencies voi args=(['USD', 'EUR', 'GBP', 'NNZ'], 'https://www.cbr-xml-daily.ru1/daily_json.js'), kwargs={}
+[2025-11-24 02:39:25] [ERROR] loi trong get_currencies voi args=(['USD', 'EUR', 'GBP', 'NNZ'], 'https://www.cbr-xml-daily.ru1/daily_json.js'): ConnectionError: API unavailable
+[2025-11-24 02:40:12] [INFO] bat dau get_currencies voi args=(['USD', 'EUR', 'GBP', 'NNZ'], 'https://www.cbr-xml-daily.ru1/daily_json.js'), kwargs={}
+[2025-11-24 02:40:13] [ERROR] loi trong get_currencies voi args=(['USD', 'EUR', 'GBP', 'NNZ'], 'https://www.cbr-xml-daily.ru1/daily_json.js'): ConnectionError: API unavailable
+[2025-11-24 02:41:37] [INFO] bat dau get_currencies voi args=(['USD', 'EUR', 'GBP', 'NNZ'], 'https://www.cbr-xml-daily.ru/daily_json.js'), kwargs={}
+[2025-11-24 02:41:37] [INFO]  hoan thanh get_currencies voi ket qua {'USD': 79.0246, 'EUR': 90.5625, 'GBP': 103.4906, 'NNZ': "Код валюты 'NNZ' не найден."} 
+
+[2025-11-24 02:41:44] [INFO] bat dau get_currencies voi args=(['USD', 'EUR', 'GBP', 'NNZ'], 'https://www.cbr-xml-daily.ru/daily_json.js'), kwargs={}
+[2025-11-24 02:41:45] [INFO]  hoan thanh get_currencies voi ket qua {'USD': 79.0246, 'EUR': 90.5625, 'GBP': 103.4906, 'NNZ': "Код валюты 'NNZ' не найден."} 
+
+[2025-11-24 02:42:18] [INFO] bat dau get_currencies voi args=(['USD', 'EUR', 'GBP', 'NNZ'], 'https://www.cbr-xml-daily.ru1/daily_json.js'), kwargs={}
+[2025-11-24 02:42:20] [ERROR] loi trong get_currencies voi args=(['USD', 'EUR', 'GBP', 'NNZ'], 'https://www.cbr-xml-daily.ru1/daily_json.js'): ConnectionError: API unavailable
+[2025-11-24 02:44:05] [INFO] bat dau get_currencies voi args=(['USD', 'EUR', 'GBP', 'NNZ'], 'https://www.cbr-xml-daily.ru1/daily_json.js'), kwargs={}
+[2025-11-24 02:44:06] [ERROR] loi trong get_currencies voi args=(['USD', 'EUR', 'GBP', 'NNZ'], 'https://www.cbr-xml-daily.ru1/daily_json.js'): AttributeError: 'Logger' object has no attribute 'write'
+[2025-11-24 02:44:38] [INFO] bat dau get_currencies voi args=(['USD', 'EUR', 'GBP', 'NNZ'], 'https://www.cbr-xml-daily.ru1/daily_json.js'), kwargs={}
+[2025-11-24 02:44:39] [ERROR] loi trong get_currencies voi args=(['USD', 'EUR', 'GBP', 'NNZ'], 'https://www.cbr-xml-daily.ru1/daily_json.js'): RequestException: Упали с исключением
+[2025-11-24 02:46:06] [INFO] bat dau get_currencies voi args=(['USD', 'EUR', 'GBP', 'NNZ'], 'https://www.cbr-xml-daily.ru1/daily_json.js'), kwargs={}
+[2025-11-24 02:46:07] [ERROR] loi trong get_currencies voi args=(['USD', 'EUR', 'GBP', 'NNZ'], 'https://www.cbr-xml-daily.ru1/daily_json.js'): RequestException: Упали с исключением
+[2025-11-26 01:50:40] [INFO] bat dau get_currencies voi args=(['USD', 'EUR', 'GBP', 'NNZ'], 'https://www.cbr-xml-daily.ru/daily_json.js'), kwargs={}
+[2025-11-26 01:50:40] [INFO]  hoan thanh get_currencies voi ket qua {'USD': 78.9615, 'EUR': 90.9698, 'GBP': 103.4238, 'NNZ': "Код валюты 'NNZ' не найден."} 
+
+
+[2025-11-26 02:33:00] [INFO] bat dau get_currencies voi args=(['USD', 'EUR', 'GBP', 'NNZ'], 'https://www.cbr-xml-daily.ru/daily_json.js'), kwargs={}
+[2025-11-26 02:33:00] [INFO]  hoan thanh get_currencies voi ket qua {'USD': 78.9615, 'EUR': 90.9698, 'GBP': 103.4238, 'NNZ': "Код валюты 'NNZ' не найден."} 
+
+[2025-11-26 02:33:04] [INFO] bat dau get_currencies voi args=(['USD', 'EUR', 'GBP', 'NNZ'], 'https://www.cbr-xml-daily.ru1/daily_json.js'), kwargs={}
+[2025-11-26 02:33:06] [ERROR] loi trong get_currencies voi args=(['USD', 'EUR', 'GBP', 'NNZ'], 'https://www.cbr-xml-daily.ru1/daily_json.js'): RequestException: Ошибка при запросе к API: HTTPSConnectionPool(host='www.cbr-xml-daily.ru1', port=443): Max retries exceeded with url: /daily_json.js (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+
+[2025-12-05 20:03:51] [INFO] start get_currencies with args=(['USD'],), kwargs={}
+[2025-12-05 20:03:52] [INFO] success get_currencies with result: {'USD': 76.0937} 
+
+[2025-12-05 20:04:08] [INFO] start get_currencies with args=(['US'],), kwargs={}
+[2025-12-05 20:04:08] [INFO] success get_currencies with result: {'US': "Код валюты 'US' не найден."} 
+
+[2025-12-05 20:04:29] [INFO] start get_currencies with args=([''],), kwargs={}
+[2025-12-05 20:04:30] [INFO] success get_currencies with result: {'': "Код валюты '' не найден."} 
+
+[2025-12-05 20:05:21] [INFO] start get_currencies with args=([''], 'https://www.cbr-xml-daily.ru1/daily_json.js'), kwargs={}
+[2025-12-05 20:05:32] [ERROR] error in get_currencies with args=([''], 'https://www.cbr-xml-daily.ru1/daily_json.js'): RequestException: API недоступен: HTTPSConnectionPool(host='www.cbr-xml-daily.ru1', port=443): Max retries exceeded with url: /daily_json.js (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001C50574EB70>: Failed to resolve 'www.cbr-xml-daily.ru1' ([Errno 11001] getaddrinfo failed)"))
+

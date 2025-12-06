@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="632c14db-aba7-44fd-9d63-a39326d89f2d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Lab_PYTHON_Y1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Lab_PYTHON_Y1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab05/lab05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab05/test_lab05.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="34nLCGeb8Xwb2gt4KvnsBC2K2fa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for Lab7.test_decorator.TestDecorator.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for Lab7.test_decorator.TestDecorator.test_decorators.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for Lab7.test_get_currencies.TestGetCurrencies.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for Lab7.test_get_currencies.TestGetCurrencies.test_currency_usd.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for Lab7.test_streamwrite.TestStreamWrite.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for PythonProjectlab08.tests.test_get_currencies.TestGetCurrencies.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for PythonProjectlab08.tests.test_get_currencies.TestGetCurrencies.test_currency_usd.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for PythonProjectlab08.tests.test_get_currencies.TestGetCurrencies.test_success.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for PythonProjectlab08.tests.test_models.TestModels.test_user_setter.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_get_currencies.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_models.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_streamwrite.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.currencies (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.currencies.executor&quot;: &quot;Run&quot;,
+    &quot;Python.decorators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.myapp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.solve_quadratic.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo/Lab_PYTHON_Y1&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python tests.Python tests for PythonProjectlab08.tests.test_get_currencies.TestGetCurrencies">
+    <configuration name="Python tests for PythonProjectlab08.tests.test_get_currencies.TestGetCurrencies" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Lab_PYTHON_Y1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;PythonProjectlab08.tests.test_get_currencies.TestGetCurrencies&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for PythonProjectlab08.tests.test_get_currencies.TestGetCurrencies.test_currency_usd" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Lab_PYTHON_Y1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;PythonProjectlab08.tests.test_get_currencies.TestGetCurrencies.test_currency_usd&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for PythonProjectlab08.tests.test_get_currencies.TestGetCurrencies.test_success" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Lab_PYTHON_Y1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;PythonProjectlab08.tests.test_get_currencies.TestGetCurrencies.test_success&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for PythonProjectlab08.tests.test_models.TestModels.test_user_setter" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Lab_PYTHON_Y1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;PythonProjectlab08.tests.test_models.TestModels.test_user_setter&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_models.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Lab_PYTHON_Y1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/PythonProjectlab08/tests/test_models.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for PythonProjectlab08.tests.test_get_currencies.TestGetCurrencies" />
+        <item itemvalue="Python tests.Python tests for PythonProjectlab08.tests.test_get_currencies.TestGetCurrencies.test_success" />
+        <item itemvalue="Python tests.Python tests for PythonProjectlab08.tests.test_get_currencies.TestGetCurrencies.test_currency_usd" />
+        <item itemvalue="Python tests.Python tests in test_models.py" />
+        <item itemvalue="Python tests.Python tests for PythonProjectlab08.tests.test_models.TestModels.test_user_setter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-8753aad8314d-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.25557.178" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="632c14db-aba7-44fd-9d63-a39326d89f2d" name="Changes" comment="" />
+      <created>1761844261836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761844261836</updated>
+    </task>
+    <servers />
+  </component>
+</project>
