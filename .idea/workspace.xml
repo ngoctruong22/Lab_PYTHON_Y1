@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="632c14db-aba7-44fd-9d63-a39326d89f2d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Lab_PYTHON_Y1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Lab_PYTHON_Y1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab05/lab05.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab05/test_lab05.py" beforeDir="false" />
-    </list>
+    <list default="true" id="632c14db-aba7-44fd-9d63-a39326d89f2d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
