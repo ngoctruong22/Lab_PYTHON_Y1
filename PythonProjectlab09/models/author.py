@@ -3,7 +3,7 @@ class Author():
         self.__name: str = name
         self.__group: str = group
 
-    @property
+    @property #bien phuong thuc thanh getter--> dua ham tro thanh thuoc tinh
     def name(self):
         return self.__name
 

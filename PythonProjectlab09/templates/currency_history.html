@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>История курса {{ code }}</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+<h1>История курса: {{ code }}</h1>
+
+<canvas id="chart" width="400" height="200"></canvas>
+
+<script>
+    // -------------- DỮ LIỆU TRUYỀN TỪ PYTHON SANG JS --------------
+    const labels = [ {{ labels|safe }} ];
+    const values = [ {{ values|safe }} ];
+
+    // -------------- VẼ BIỂU ĐỒ --------------
+    const ctx = document.getElementById('chart');
+
+    new Chart(ctx, {
+        type: 'line',
+        data: {
+            labels: labels,
+            datasets: [{
+                label: 'Курс {{ code }}',
+                data: values,
+                borderWidth: 2,
+                tension: 0.2
+            }]
+        },
+        options: {
+            responsive: true
+        }
+    });
+</script>
+
+</body>
+</html>
